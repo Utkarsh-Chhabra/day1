@@ -1,0 +1,6 @@
+What is Data?
+Data is any raw fact, figure, or value that can be collected, stored, and processed by a computer or observed by humans. It has no meaning on its own until it is processed or interpreted.
+
+What is Filesystem?
+A file system is a method and structure that an operating system uses to store, organize, and retrieve files on a storage device (like a hard drive, SSD, USB, or SD card).
+
